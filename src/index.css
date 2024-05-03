@@ -1,0 +1,30 @@
+.app {
+  text-align: center;
+  padding-top: 5rem;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+}
+
+input[type="color"] {
+  margin-bottom: 2rem;
+}
+
+.color-box {
+  width: 200px;
+  height: 200px;
+  margin: 2rem auto;
+  border:1px solid black;
+}
+
+input[type="range"] {
+  width: 300px;
+  margin-bottom: 2rem;
+}
+
+.color-info {
+  margin-top: 1rem;
+}
